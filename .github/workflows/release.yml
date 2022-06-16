@@ -24,4 +24,3 @@ jobs:
         goos: ${{ matrix.goos }}
         goarch: ${{ matrix.goarch }}
         goversion: latest
-        extra_files: LICENSE README.md gimme.yml templates docs
